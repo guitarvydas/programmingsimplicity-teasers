@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "book.md",
+                "file": "Book.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "book.md",
+                "file": "Book.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "book.md",
+                "file": "Book.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "book.md",
+                "file": "Book.md",
                 "mode": "source",
                 "source": false
               }
@@ -219,9 +219,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "98acc0643f4105f7",
+  "active": "07b9b304710267e3",
   "lastOpenFiles": [
-    "book.md",
+    "Book.md",
     "test3.md",
     "parsing idioms.md",
     "hamburger workbench.md",
